@@ -1,6 +1,6 @@
 # review-app
 
-A full stack web application for writing reviews for ...
+A full stack web application for writing reviews for games
 
 Give in .env files the variables for
 
